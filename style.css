@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    background-color: purple;
+    color: white;
+}
+
+button {
+    background-color: grey;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+ol {
+    background-color: black;
+    color: white;
+}
